@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    background-image: url(images/flip-2.png);
+   
+}
+h1{
+    text-align: center;
+    color: indigo;
+    padding: 400px;
+    font-weight: bolder;
+}
